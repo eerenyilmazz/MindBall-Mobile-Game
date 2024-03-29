@@ -20,3 +20,5 @@ Seviyelerimizde bir top bulunmaktadır. Top ile yolları boyayarak zeminde ilerl
 
 İlerleyiş
 Tamamı boyanan zemin sonunda bir sonraki bölümü açılır.
+
+GDD : https://docs.google.com/presentation/d/1Bgs4hsihjjPkFpfZy0UvjgAC26EtCorWHfgLhwQxxb0/edit?usp=sharing
