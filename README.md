@@ -1,24 +1,28 @@
-Mind Ball
+# Mind Ball
 
-Oyun Özeti
-"Mind Ball", basit bir bulmaca oyunudur. İçerisinde boyalı bir top bulunduğu sayılar ve harfler içeren basit labirent benzeri bir ortamda oynanır. Oyun içerisindeki zeminin tamamını boya ile kaplayarak ilerlemek gerekmektedir.
+## Game Summary
+**Mind Ball** is a simple puzzle game. It is played in a basic maze-like environment containing numbers and letters, with a colored ball. The goal is to progress by covering the entire floor with paint.
 
-Kaybetme Şartları
-Eğer zeminin tamamını boyayamazsanız, bulunduğunuz seviyeyi kaybedersiniz.
+## Losing Conditions
+If you cannot paint the entire floor, you lose the level you are on.
 
-Kontroller
-Scroll
-Oyunun Amacı
-Oyunun amacı, 3-7 yaş arası çocuklarda görsel ve mantıksal zekayı kullanarak sayı ve harf öğretisini geliştirmektir.
+## Controls
+- **Scroll**: Use to control the game.
 
-Eğlenceli Elementler
-Bir başlangıcı ve bir bitişi olan labirenti baştan sona ilerleyebilmek.
-Sayılar ve harfleri doğru düzlemde ilerleterek öğrenim yetimizi geliştirme hissiyatı.
-Oyun Senaryosu
-Level Design
-Seviyelerimizde bir top bulunmaktadır. Top ile yolları boyayarak zeminde ilerleriz.
+## Objective
+The objective of the game is to develop visual and logical intelligence in children aged 3-7 by teaching numbers and letters.
 
-İlerleyiş
-Tamamı boyanan zemin sonunda bir sonraki bölümü açılır.
+## Fun Elements
+- Navigating from the beginning to the end of the maze.
+- The feeling of enhancing learning abilities by moving numbers and letters in the correct plane.
 
-GDD : https://docs.google.com/presentation/d/1Bgs4hsihjjPkFpfZy0UvjgAC26EtCorWHfgLhwQxxb0/edit?usp=sharing
+## Game Scenario
+
+### Level Design
+In our levels, there is a ball. We progress on the ground by painting the paths with the ball.
+
+### Progression
+Once the entire floor is painted, the next level is unlocked.
+
+## Game Design Document
+For more detailed information, you can check out the [Game Design Document (GDD)](https://docs.google.com/presentation/d/1Bgs4hsihjjPkFpfZy0UvjgAC26EtCorWHfgLhwQxxb0/edit?usp=sharing).
